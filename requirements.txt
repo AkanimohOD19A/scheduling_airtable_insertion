@@ -1,0 +1,4 @@
+pyairtable
+schedule
+faker
+python-dotenv
